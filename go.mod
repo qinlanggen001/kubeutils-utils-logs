@@ -1,4 +1,4 @@
-module github.com/qinlanggen001/kubeutils-utils-logs.git
+module github.com/qinlanggen001/kubeutils-utils-logs
 
 go 1.20
 
